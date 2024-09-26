@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f023c40-af7b-4aa3-8bfe-e30d6fca61b3" name="更改" comment="Lyf's Log Init">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="9f023c40-af7b-4aa3-8bfe-e30d6fca61b3" name="更改" comment="model Lyf">
+      <change afterPath="$PROJECT_DIR$/Security/Lyf_Logs/templates/lyf.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Security.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Security.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Security/Lyf_Logs/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Security/Lyf_Logs/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Security/Lyf_Logs/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Security/Lyf_Logs/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Security/Lyf_Logs/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Security/Lyf_Logs/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Security/Security/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Security/Security/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,33 +54,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/lenovo/Desktop/Security/Security/Lyf_Logs/templates&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.pycharm.django.structure.promotion.once.per.project": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "E:/NewDesktop/Security",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\lenovo\Desktop\Security\Security\Lyf_Logs\templates" />
+      <recent name="C:\Users\lenovo\Desktop\Security\Security\Lyf_Logs\static\plugin" />
+      <recent name="C:\Users\lenovo\Desktop\Security\Security\Lyf_Logs\static\dist" />
       <recent name="C:\Users\lenovo\Desktop\Security\Security\Lyf_Logs" />
       <recent name="C:\Users\lenovo\Desktop\Security\Security\Lyf_Logs\js" />
-      <recent name="C:\Users\lenovo\Desktop\Security\Security\Lyf_Logs\css" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\lenovo\Desktop\Security\Security\Lyf_Logs\css" />
+      <recent name="C:\Users\lenovo\Desktop\Security\Security\Lyf_Logs\static\dist" />
       <recent name="C:\Users\lenovo\Desktop\Security\Security\Lyf_Logs" />
+      <recent name="C:\Users\lenovo\Desktop\Security\Security\Lyf_Logs\css" />
       <recent name="C:\Users\lenovo\Desktop\Security\Security\Lyf_Logs\js" />
     </key>
   </component>
@@ -131,6 +132,8 @@
       <workItem from="1727193727062" duration="272000" />
       <workItem from="1727194016412" duration="2701000" />
       <workItem from="1727197045427" duration="29000" />
+      <workItem from="1727221542430" duration="2801000" />
+      <workItem from="1727315557908" duration="1496000" />
     </task>
     <task id="LOCAL-00001" summary="Django Init">
       <option name="closed" value="true" />
@@ -156,7 +159,23 @@
       <option name="project" value="LOCAL" />
       <updated>1727194297365</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="model Lyf">
+      <option name="closed" value="true" />
+      <created>1727223907749</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727223907749</updated>
+    </task>
+    <task id="LOCAL-00005" summary="model Lyf">
+      <option name="closed" value="true" />
+      <created>1727223916337</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1727223916337</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,6 +184,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Django Init" />
     <MESSAGE value="Lyf's Log Init" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lyf's Log Init" />
+    <MESSAGE value="model Lyf" />
+    <option name="LAST_COMMIT_MESSAGE" value="model Lyf" />
   </component>
 </project>
